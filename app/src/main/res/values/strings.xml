@@ -2,15 +2,10 @@
   <string name="app_name">Blackjack</string>
 
   <!-- TODO: Remove or change this placeholder text -->
-  <string name="hello_blank_fragment">Hello blank fragment</string>
   <string name="blackjack_value">21</string>
   <string name="hard_soft_divider">|</string>
   <string name="new_round">New Round</string>
-  <string name="deck_of_cards_base_url">https://deckofcardsapi.com/</string>
-  <string name="image_url_pattern">%1$sstatic/img/%2$s.png</string>
   <string name="card_content_description">%1$s of %2$s</string>
-  <string name="title_activity_beats2">Beats2Activity</string>
-  <string name="action_settings">Settings</string>
-  <string name="section_format">Hello World from section: %1$d</string>
   <string name="login_failure_message">Unable to log in with provided credentials.</string>
+  <string name="sign_out">Sign out</string>
 </resources>
